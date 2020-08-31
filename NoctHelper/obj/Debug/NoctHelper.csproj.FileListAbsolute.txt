@@ -1,0 +1,10 @@
+C:\Users\alexp\Source\Repos\NoctHelper\NoctHelper\bin\Debug\NoctHelper.exe.config
+C:\Users\alexp\Source\Repos\NoctHelper\NoctHelper\bin\Debug\NoctHelper.exe
+C:\Users\alexp\Source\Repos\NoctHelper\NoctHelper\bin\Debug\NoctHelper.pdb
+C:\Users\alexp\Source\Repos\NoctHelper\NoctHelper\obj\Debug\NoctHelper.csprojAssemblyReference.cache
+C:\Users\alexp\Source\Repos\NoctHelper\NoctHelper\obj\Debug\NoctHelper.Form1.resources
+C:\Users\alexp\Source\Repos\NoctHelper\NoctHelper\obj\Debug\NoctHelper.Properties.Resources.resources
+C:\Users\alexp\Source\Repos\NoctHelper\NoctHelper\obj\Debug\NoctHelper.csproj.GenerateResource.cache
+C:\Users\alexp\Source\Repos\NoctHelper\NoctHelper\obj\Debug\NoctHelper.csproj.CoreCompileInputs.cache
+C:\Users\alexp\Source\Repos\NoctHelper\NoctHelper\obj\Debug\NoctHelper.exe
+C:\Users\alexp\Source\Repos\NoctHelper\NoctHelper\obj\Debug\NoctHelper.pdb
